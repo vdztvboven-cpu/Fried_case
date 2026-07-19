@@ -6,7 +6,7 @@ Contains versions of the bottom and top cases for the Fri3d camp badge 2026
 Note: Top case part has not yet been tested/fitted! Designed using existing github fri3d camp STL design files (but I have no badge to fully verify if it fits)
 
 - Has cutout for LORA antenna
-- Holes for SOA pins
+- Holes for SAO pins
 - Bottom version with and without (blanco) fri3d camp logo
 - Top version with LED holes (for non transparant filament) and top version without led holes (print in transparant filament)
 recommend PETG transparant for best PCB and LED view and BECAUSE PETG is most translucent (more then PLA)
