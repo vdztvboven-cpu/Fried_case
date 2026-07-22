@@ -9,6 +9,6 @@ Note: Top case part has not yet been tested/fitted! Designed using existing gith
 - Holes for SAO pins
 - Bottom version with and without (blanco) fri3d camp logo
 - Top version with LED holes (for non transparant filament) and top version without led holes (print in transparant filament)
-recommend PETG transparant for best PCB and LED view and BECAUSE PETG is most translucent (more then PLA)
+recommend PETG transparant for best PCB and LED view and because PETG is most translucent (more then PLA)
 
 Based on a fork of [vdztvboven-cpu fried_case github](https://github.com/vdztvboven-cpu/Fried_case) and design files from [fri3d github page](https://github.com/Fri3dCamp/badge_2026_hw)
